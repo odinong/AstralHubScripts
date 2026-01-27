@@ -1,26 +1,8 @@
 [
   {
-    "name": "Test 1",
-    "desc": "first test script, debugs test.",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tater_Tots_Close_Up_%2824782852665%29.jpg",
-    "content": "https://raw.githubusercontent.com/odinong/AstralHubScripts/refs/heads/main/Test.cs"
-  },
-  {
-    "name": "Test 2",
-    "desc": "2nd test script, debugs test2.",
-    "img": "https://www.andy-cooks.com/cdn/shop/articles/20230930000900-andy-20cooks-20-20tater-20tots.jpg?v=1696211632",
-    "content": "https://raw.githubusercontent.com/odinong/AstralHubScripts/refs/heads/main/Test2.cs"
-  },
-  {
-    "name": "Test 3",
-    "desc": "3rd test script, debugs test3.",
-    "img": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9064347/tater_tots_closeup.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
-    "content": "https://raw.githubusercontent.com/odinong/AstralHubScripts/refs/heads/main/Test3.cs"
-  },
-  {
-    "name": "Test 4",
-    "desc": "4th test script, debugs test4.",
-    "img": "https://lambweston.scene7.com/is/image/lambweston/H30_LW-Tater-Puffs-Parchment?$ProductImage$",
-    "content": "https://raw.githubusercontent.com/odinong/AstralHubScripts/refs/heads/main/Test4.cs"
+    "name": "Simple WASD",
+    "desc": "super simple WASD script, written by gpt",
+    "img": "https://github.com/odinong/AstralHubScripts/blob/main/WASDScript.png?raw=true",
+    "content": "https://raw.githubusercontent.com/odinong/AstralHubScripts/refs/heads/main/WASDScript.cs"
   }
 ]
